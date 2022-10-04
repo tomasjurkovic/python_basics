@@ -14,3 +14,6 @@ print(var_float + " is a float")
 name = "Tomas"
 print('\"Hello, I\'m ' + name + ', it\'s nice to meet you!\"')
 
+# Asterisk Triangle simple solution:
+print("*******\n ***** \n  ***  \n   *   ")
+

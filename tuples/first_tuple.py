@@ -11,4 +11,3 @@ tuple_5 = tuple("edcba")
 print(tuple_4)  # prints (3.14, 2.205, 10)
 # the string was divided into characters that created tuple:
 print(tuple_5)  # prints ('e', 'd', 'c', 'b', 'a')
-
